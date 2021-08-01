@@ -393,11 +393,7 @@ int main()
   srand(time(NULL));
   unsigned int randIndex = rand() % 373;
 
-  cout << "\"" << quotes[randIndex] << "\"" << endl
-       << endl
-       << "- Sun Tzu, The Art of War" << endl;
-
-  system("pause");
+  cout << quotes[randIndex] << endl;
 
   return 0;
 }

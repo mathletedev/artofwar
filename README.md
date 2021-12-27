@@ -13,13 +13,13 @@ git clone https://github.com/mathletedev/artofwar
 Build the source code:
 
 ```bash
-g++ -o artofwar artofwar.cpp
+g++ -o aow artofwar.cpp
 ```
 
 Run the program!
 
 ```bash
-./artofwar
+./aow
 ```
 
 ## Credits
